@@ -1,0 +1,26 @@
+.buttons
+{
+    text-align: center;
+    margin-left: 40%;
+    margin-top:20%;
+}
+
+
+
+.buttons button
+{
+    width: 300px;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.result
+{
+    font-size: 60px;
+    margin-right:100%;
+}
+
